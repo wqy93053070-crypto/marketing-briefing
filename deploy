@@ -1,0 +1,3 @@
+git config user.name "Wang, Qianyun (Megan)"
+git config user.email "wqy93053070@gmail.com"
+git commit --amend --reset-author --no-edit
